@@ -200,7 +200,7 @@ Currently exploring deeper concepts in:
 
 ## Connect
 
-* Portfolio: https://vipul99999.github.io/Vipul_Portfolio/
+* Portfolio: https://vipul-kumar-patel.vercel.app/
 * GitHub: https://github.com/Vipul99999
 * LinkedIn: https://www.linkedin.com/in/vipul-kumar-patel-90b1242b1
 
